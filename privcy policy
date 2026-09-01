@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - My Vehicle Manager</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #333;
+            background: #f8f9fa;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        }
+        h1 { color: #1565C0; font-size: 28px; margin-bottom: 8px; }
+        h2 { color: #1565C0; font-size: 20px; margin-top: 30px; margin-bottom: 10px; border-bottom: 2px solid #e3f2fd; padding-bottom: 6px; }
+        p { margin-bottom: 12px; }
+        ul { margin: 10px 0 16px 24px; }
+        li { margin-bottom: 6px; }
+        .last-updated { color: #777; font-size: 14px; margin-bottom: 24px; }
+        .highlight { background: #e3f2fd; padding: 14px 18px; border-radius: 8px; margin: 16px 0; border-left: 4px solid #1565C0; }
+        a { color: #1565C0; }
+        .footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee; font-size: 13px; color: #999; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>My Vehicle Manager</strong></p>
+        <p class="last-updated">Last Updated: September 1, 2026</p>
+
+        <div class="highlight">
+            <strong>Summary:</strong> My Vehicle Manager stores all your vehicle data locally on your device. We do not collect, transmit, or store any personal data on external servers. The app uses Google AdMob to display advertisements, which may collect certain data as described below.
+        </div>
+
+        <h2>1. Information We Collect</h2>
+        <p>My Vehicle Manager is designed with your privacy in mind. The app stores all data <strong>locally on your device</strong> using an offline database. This includes:</p>
+        <ul>
+            <li>Vehicle details (name, brand, model, registration number, photos)</li>
+            <li>Expense records (fuel, service, repairs, insurance, fines)</li>
+            <li>Maintenance reminders and schedules</li>
+            <li>Document information (RC, insurance, PUC, driving license)</li>
+            <li>Mileage and fuel fill logs</li>
+        </ul>
+        <p><strong>We do not collect, store, or transmit any of this data to any server or third party.</strong> All data remains on your device and is fully under your control.</p>
+
+        <h2>2. Advertising</h2>
+        <p>This app uses <strong>Google AdMob</strong> to display advertisements, including banner ads and interstitial ads. Google AdMob may collect and use certain information to serve relevant ads, including:</p>
+        <ul>
+            <li>Device identifiers (Advertising ID)</li>
+            <li>IP address</li>
+            <li>Device information (model, OS version)</li>
+            <li>General location (based on IP address)</li>
+            <li>App usage and interaction data related to ads</li>
+        </ul>
+        <p>This data collection is governed by Google's privacy policy. For more information, please visit:
+            <a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a> and
+            <a href="https://policies.google.com/technologies/ads" target="_blank">How Google Uses Information</a>.
+        </p>
+
+        <h2>3. Permissions Used</h2>
+        <p>The app requests the following permissions for its functionality:</p>
+        <ul>
+            <li><strong>Camera</strong> — To capture vehicle photos and document images</li>
+            <li><strong>Storage / Media Access</strong> — To pick photos from your gallery for vehicle profiles and documents</li>
+            <li><strong>Notifications</strong> — To send maintenance reminders and document expiry alerts</li>
+            <li><strong>Internet Access</strong> — Required by Google AdMob to load and display advertisements</li>
+            <li><strong>Vibrate</strong> — For notification alerts</li>
+        </ul>
+
+        <h2>4. Data Storage & Security</h2>
+        <p>All your data is stored <strong>locally on your device</strong> using an encrypted SQLite database. No data is transmitted over the internet except for advertising-related requests made by Google AdMob.</p>
+        <p>If you uninstall the app, all locally stored data will be permanently deleted from your device.</p>
+
+        <h2>5. Children's Privacy</h2>
+        <p>This app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children. The app is designed for vehicle owners who are of legal driving age.</p>
+
+        <h2>6. Third-Party Services</h2>
+        <p>The app uses the following third-party services that may collect information:</p>
+        <ul>
+            <li><strong>Google AdMob</strong> — For displaying advertisements (<a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a>)</li>
+            <li><strong>Google Play Services</strong> — For app distribution and updates (<a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a>)</li>
+        </ul>
+
+        <h2>7. Your Rights</h2>
+        <p>Since all data is stored locally on your device, you have full control over it:</p>
+        <ul>
+            <li><strong>Access:</strong> You can view all your data within the app at any time.</li>
+            <li><strong>Delete:</strong> You can delete individual records within the app, or uninstall the app to remove all data.</li>
+            <li><strong>Opt-out of Personalized Ads:</strong> You can opt out of personalized advertising by adjusting your device settings under <em>Settings &gt; Google &gt; Ads &gt; Opt out of Ads Personalization</em>.</li>
+        </ul>
+
+        <h2>8. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated "Last Updated" date. We encourage you to review this page periodically.</p>
+
+        <h2>9. Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy or the app's data practices, please contact us at:</p>
+        <p><strong>Email:</strong> <a href="mailto:educationhub.apps@gmail.com">educationhub.apps@gmail.com</a></p>
+
+        <div class="footer">
+            &copy; 2026 Education Hub. All rights reserved.<br>
+            My Vehicle Manager — Manage vehicles, expenses, documents — all in one place.
+        </div>
+    </div>
+</body>
+</html>
